@@ -1,6 +1,12 @@
-# Apiexample
+# Rick and Morty API project - Angular WorkShop 
+
+Fun app that consumes Rick and Morty API to show characters using Angular.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+
+## Demo
+[https://jovial-joliot-392f4e.netlify.com](https://jovial-joliot-392f4e.netlify.com)
 
 ## Development server
 
